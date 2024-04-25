@@ -1,0 +1,17 @@
+	body {
+        background-color: #f1f0ee;
+    }
+    .primary-color {
+        color: #194e8a;
+    }
+
+    .top-text-slider .owl-nav {
+        position: absolute;
+        width: 100%;
+    }
+    .search-nav-color {
+        background-color: #194e8a;
+    }
+    #sortbox:checked ~ #sortboxmenu {
+        opacity: 1;
+    }
